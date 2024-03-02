@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavishka-palihena
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Industrial Statistics 
+- 🌱 I’m currently learning Industrial Statistics in University of Colombo
 - 💞️ I’m looking to collaborate on projects which are related to machine learning
 - 📫 email me on kavishka.palihena@gmail.com
 
