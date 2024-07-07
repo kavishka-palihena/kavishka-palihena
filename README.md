@@ -6,12 +6,10 @@ Hello! I'm **Kavishka Palihena**, an enthusiastic undergraduate student deeply f
 
 - **Programming Languages**: I possess strong proficiency in Python and R, allowing me to effectively tackle a wide range of data analysis and machine learning tasks.
 - **Machine Learning & Deep Learning**: My expertise spans various domains, including:
-  - **Neural Networks**: Designing and implementing neural network architectures for diverse applications.
-  - **Convolutional Neural Networks (CNNs)**: Specializing in image recognition and processing tasks using CNNs.
-  - **Recurrent Neural Networks (RNNs)**: Applying RNNs for sequential data analysis and time series forecasting.
-  - **CART (Classification and Regression Trees)**: Utilizing decision trees for both classification and regression tasks.
-  - **K-Nearest Neighbors (KNN)**: Implementing KNN algorithms for classification and regression based on proximity measures.
-  - **K-Means Clustering**: Applying clustering techniques for unsupervised learning and data segmentation.
+  - Regression
+  - Classification
+  - Clustering
+
 - **Tools**: I am adept at using Google Colab Notebooks for interactive programming and GitHub for version control and collaborative development.
 
 ## 📚 Education
